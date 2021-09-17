@@ -1,0 +1,1 @@
+"./control.obj" "./fdc2214.obj" "./iic.obj" "./main.obj" "./oled.obj" "./uart.obj" "./xiaoche.obj" "../lnk_msp430f5529.cmd" -llibmath.a -llibc.a 
